@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-02T20:17:41" hostname="DESKTOP-O22P81F" time="0.161">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.161"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+> Marry
+What a great name you have, Marry!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 0
+> 5
+Your age is 40; that's a good time to start programming!
+Now I will prove to you that I can count to any number you want.
+> 10
+0!
+1!
+2!
+3!
+4!
+5!
+6!
+7!
+8!
+9!
+10!
+Let's test your programming knowledge.
+Suppose you have the binary number 111. What is the next number?
+1. 0111
+2. 1000
+3. 110
+4. 1111
+> 1
+Please, try again.
+> 2
+Congratulations, have a nice day!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
