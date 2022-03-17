@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: public static void method(String s, int i) { }
+- text: public static int method(int i) { return 3; }
+- text: ' public static void method1(int i) { }'
+- text: public static long method(long l) { return 1L; }
+- text: public static void method(int i, String s) { }
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2754#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 23 Feb 2022 18:26:20 UTC
+record: -1
+selected_options:
+- 0
+- 3
+- 4

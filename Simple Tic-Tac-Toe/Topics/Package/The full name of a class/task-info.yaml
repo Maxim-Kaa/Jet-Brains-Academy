@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: hyperskill.java.DemoClass
+- text: DemoClass
+- text: org.hyperskill.java.DemoClass.class
+- text: org.hyperskill.java.DemoClass
+- text: java.org.hyperskill.DemoClass
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2042#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 25 Feb 2022 07:33:21 UTC
+record: -1
+selected_options:
+- 3

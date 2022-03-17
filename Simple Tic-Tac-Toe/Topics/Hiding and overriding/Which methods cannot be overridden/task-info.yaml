@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: final methods
+- text: public static methods
+- text: overloaded methods
+- text: private instance methods
+- text: public instance methods
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3400#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 05 Mar 2022 13:29:56 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 3

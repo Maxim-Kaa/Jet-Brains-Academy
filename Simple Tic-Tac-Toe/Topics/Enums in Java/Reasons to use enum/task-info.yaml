@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: An enum type enables a variable to be a set of predefined constants.
+- text: Enumeration helps to avoid errors in the code.
+- text: Enum is a perfect tool for values that can be changed.
+- text: Enum makes the code readable and concise.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11515#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 07 Mar 2022 11:34:06 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 3

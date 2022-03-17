@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 3.0
+- text: 4.0
+- text: 5.5
+- text: 4.8
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3453#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 11 Feb 2022 19:11:31 UTC
+record: -1
+selected_options:
+- 1

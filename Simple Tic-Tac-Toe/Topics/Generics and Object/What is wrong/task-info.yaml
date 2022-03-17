@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 'Compile-time: incompatible types: long cannot be converted to java.lang.String'
+- text: 'Runtime: incompatible types: long cannot be converted to java.lang.String'
+- text: 'Compile-time: incompatible types: java.lang.String cannot be converted to
+    long'
+- text: Compilation and running successfuly
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11181#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 07 Mar 2022 17:03:52 UTC
+record: -1
+selected_options:
+- 0

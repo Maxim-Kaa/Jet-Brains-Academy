@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Math.floor(9.7)
+- text: Math.round(9.7)
+- text: Math.abs(9.7)
+- text: Math.ceil(9.7)
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3422#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 06 Mar 2022 18:16:37 UTC
+record: -1
+selected_options:
+- 1
+- 3

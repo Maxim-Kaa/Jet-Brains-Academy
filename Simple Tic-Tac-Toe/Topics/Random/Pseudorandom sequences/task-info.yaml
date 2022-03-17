@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: sometimes the sequences cannot be generated
+- text: they can contain repeating elements
+- text: they are completely determined by seeds
+- text: they are limited by borders
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7676#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 06 Mar 2022 07:06:55 UTC
+record: -1
+selected_options:
+- 2
