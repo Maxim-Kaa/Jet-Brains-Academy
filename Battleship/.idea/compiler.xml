@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship.Battleship-task-build-classes-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-reports-tests.main" target="11" />
+      <module name="Battleship.Battleship-task-build-test-results.main" target="11" />
+      <module name="Battleship.Battleship-task-build-tmp.main" target="11" />
+      <module name="Battleship.Battleship-task.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Directions.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Elements_of_enum.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Months.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Alphabetical_order.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Boxes.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Find_the_sum.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Right_Rotation.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_longest_ascending_sequence.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_maximum_product_of_adjacent_elements.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Battleship.Topics-Output_streams-Convert_to_char_array.main" target="11" />
+      <module name="Battleship.Topics-Output_streams-Theory.main" target="11" />
+      <module name="Battleship.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
